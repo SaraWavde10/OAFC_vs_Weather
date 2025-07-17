@@ -1,6 +1,6 @@
 # Is Oldham Athletic Resistant to Cold Weather?
 
-This project investigates whether weather conditions (temperature, wind, humidity, etc.) influence match outcomes for Oldham Athletic AFC - inspired by the club's home stadium, Boundary Park, being known as one of the coldest in English football.
+This project investigates whether weather conditions (temperature, wind, humidity, etc.) influence match outcomes for Oldham Athletic AFC - inspired by the club's home stadium, Boundary Park, being known as one of the coldest in English football. The dataset consisted of over 1500 matches, and weather from 11,000+ days that was used for this project. 
 
 ## Hypothesis
 
